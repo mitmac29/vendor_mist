@@ -23,9 +23,9 @@ PRODUCT_COPY_FILES += \
     vendor/lineage/bootanimation/prebuilts/bootanimation_ctos.zip:$(TARGET_COPY_OUT_PRODUCT)/media/bootanimation_ctos.zip \
     vendor/lineage/bootanimation/prebuilts/bootanimation_cyberpunk.zip:$(TARGET_COPY_OUT_PRODUCT)/media/bootanimation_cyberpunk.zip \
     vendor/lineage/bootanimation/prebuilts/bootanimation_du.zip:$(TARGET_COPY_OUT_PRODUCT)/media/bootanimation_du.zip \
-    vendor/lineage/bootanimation/prebuilts/bootanimation_mist.zip:$(TARGET_COPY_OUT_PRODUCT)/media/bootanimation_mist.zip \
-    vendor/lineage/bootanimation/prebuilts/bootanimation_google.zip:$(TARGET_COPY_OUT_PRODUCT)/media/bootanimation_google.zip \
     vendor/lineage/bootanimation/prebuilts/bootanimation_google_monet.zip:$(TARGET_COPY_OUT_PRODUCT)/media/bootanimation_google_monet.zip \
+    vendor/lineage/bootanimation/prebuilts/bootanimation_google.zip:$(TARGET_COPY_OUT_PRODUCT)/media/bootanimation_google.zip \
+    vendor/lineage/bootanimation/prebuilts/bootanimation_mist.zip:$(TARGET_COPY_OUT_PRODUCT)/media/bootanimation_mist.zip \
     vendor/lineage/bootanimation/prebuilts/bootanimation_pac.zip:$(TARGET_COPY_OUT_PRODUCT)/media/bootanimation_pac.zip \
     vendor/lineage/bootanimation/prebuilts/bootanimation_rr.zip:$(TARGET_COPY_OUT_PRODUCT)/media/bootanimation_rr.zip \
     vendor/lineage/bootanimation/prebuilts/bootanimation_slim.zip:$(TARGET_COPY_OUT_PRODUCT)/media/bootanimation_slim.zip \
